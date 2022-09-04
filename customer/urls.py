@@ -5,5 +5,5 @@ import customer
 
 urlpatterns = [
     
-    
+    path('auth-api',)
 ]
